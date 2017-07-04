@@ -1,1 +1,2 @@
-# React_6.2_setting_redux
+a| $ npm i --save redux react-router react-r
+     edux react-router-redux
